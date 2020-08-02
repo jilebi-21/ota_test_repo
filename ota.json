@@ -7,7 +7,8 @@
       "romtype": "OFFICIAL",
       "size": 322122547200,
       "url": "https://sourceforge.net/projects/dotos-2-x/files/latest/download",
-      "version": "ver[X]"
+      "version": "ver[X]",
+      "whats_new": "this is where all the changes are seen"
     }
   ]
 }
